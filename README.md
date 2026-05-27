@@ -1,7 +1,9 @@
-* TOC
-{:toc}
+
 
 # Sharing Content Using OneDrive to U of T Users
+
+* TOC
+{:toc}
 
 A&S Teaching & Learning [teachinglearning.artsci@utoronto.ca](mailto:teachinglearning.artsci@utoronto.ca)
 
